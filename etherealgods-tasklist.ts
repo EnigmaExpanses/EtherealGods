@@ -1,4 +1,4 @@
-export const finalTaskList: any = [
+export const etherealGodsTaskList: any = [
   {
     taskUUID: "c8b2f3aa-eeb4-4b09-aae7-ded52915a12e",
     solgodHolder: "2KGpvsGWPmdKUQVXMUFnMy6mdUwt4hK2oHQGUE8pV13y",
