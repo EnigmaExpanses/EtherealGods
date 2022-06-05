@@ -4680,4 +4680,160 @@ export const etherealGodsTaskList: any = [
     numberOfCollection: 312,
     totalCollectionSize: 666,
   },
+    {
+    "taskUUID": "4def19bc-5417-4f31-91eb-af1621229d58",
+    "solgodHolder": "5J6W3zHJs4DRfEDjC8M2s1VsUkmjgB63DRbp1EbKt4ia",
+    "solgodMintAddress": "BBgSmLANeyTqCa4iAyxjDjZfMm4JwEo8ffAbKKZwaj3u",
+    "solgodMintName": "SOLGods 1396",
+    "solgodMintURI": "https://arweave.net/uhEjZFcJ3_BY7KuNl4ZyK5jWyu3tMF0apyCyHso3aNc",
+    "ee": {
+      "etherealOrEntropyMintName": "Ethereals 210",
+      "etherealOrEntropyMintAddress": "3suVkybZWpvTgHVGgMGT8RQosHu6BjRHwJcwGd3NpCew"
+    },
+    "numberOfCollection": 313,
+    "totalCollectionSize": 666
+  },
+  {
+    "taskUUID": "c79b1ea1-22cc-40e1-8864-5276f5edcf0d",
+    "solgodHolder": "5J6W3zHJs4DRfEDjC8M2s1VsUkmjgB63DRbp1EbKt4ia",
+    "solgodMintAddress": "BBgSmLANeyTqCa4iAyxjDjZfMm4JwEo8ffAbKKZwaj3u",
+    "solgodMintName": "SOLGods 1396",
+    "solgodMintURI": "https://arweave.net/uhEjZFcJ3_BY7KuNl4ZyK5jWyu3tMF0apyCyHso3aNc",
+    "ee": {
+      "etherealOrEntropyMintName": "Ethereals 10",
+      "etherealOrEntropyMintAddress": "A46uWoDWbc4QjBAgNWwt5XRAiT7sNnoaetMQYw37sA1X"
+    },
+    "numberOfCollection": 314,
+    "totalCollectionSize": 666
+  },
+  {
+    "taskUUID": "94c5c9f3-6539-472b-a819-6c0577572fac",
+    "solgodHolder": "5J6W3zHJs4DRfEDjC8M2s1VsUkmjgB63DRbp1EbKt4ia",
+    "solgodMintAddress": "7UkeqKqouCuK1MwaoMZtbNanDrTziGDZpwFi1NUxjmha",
+    "solgodMintName": "SOLGods 893",
+    "solgodMintURI": "https://arweave.net/WptBZJiVIAjoL1H1IzLNF3s9W62gXfZBosJ6kvGnAZw",
+    "ee": {
+      "etherealOrEntropyMintName": "Ethereals 210",
+      "etherealOrEntropyMintAddress": "3suVkybZWpvTgHVGgMGT8RQosHu6BjRHwJcwGd3NpCew"
+    },
+    "numberOfCollection": 315,
+    "totalCollectionSize": 666
+  },
+  {
+    "taskUUID": "9dfde18b-0e4e-4362-a80f-93e489dc6863",
+    "solgodHolder": "5J6W3zHJs4DRfEDjC8M2s1VsUkmjgB63DRbp1EbKt4ia",
+    "solgodMintAddress": "7UkeqKqouCuK1MwaoMZtbNanDrTziGDZpwFi1NUxjmha",
+    "solgodMintName": "SOLGods 893",
+    "solgodMintURI": "https://arweave.net/WptBZJiVIAjoL1H1IzLNF3s9W62gXfZBosJ6kvGnAZw",
+    "ee": {
+      "etherealOrEntropyMintName": "Ethereals 10",
+      "etherealOrEntropyMintAddress": "A46uWoDWbc4QjBAgNWwt5XRAiT7sNnoaetMQYw37sA1X"
+    },
+    "numberOfCollection": 316,
+    "totalCollectionSize": 666
+  },
+  {
+    "taskUUID": "7d7f939c-5bc3-4a34-9bce-884ef92e0520",
+    "solgodHolder": "5J6W3zHJs4DRfEDjC8M2s1VsUkmjgB63DRbp1EbKt4ia",
+    "solgodMintAddress": "C3vEmtELPc5MbBnnNheNRjvLj8E59isbQcPXy3wpp2zu",
+    "solgodMintName": "SOLGods 5165",
+    "solgodMintURI": "https://arweave.net/KMG926LMLRMDHnQb9KwQ6cwRtv0p5uBvJk6TABuLf8Q",
+    "ee": {
+      "etherealOrEntropyMintName": "Ethereals 210",
+      "etherealOrEntropyMintAddress": "3suVkybZWpvTgHVGgMGT8RQosHu6BjRHwJcwGd3NpCew"
+    },
+    "numberOfCollection": 317,
+    "totalCollectionSize": 666
+  },
+  {
+    "taskUUID": "93ea8e73-5059-4fc6-ae74-6c78cc4d8948",
+    "solgodHolder": "5J6W3zHJs4DRfEDjC8M2s1VsUkmjgB63DRbp1EbKt4ia",
+    "solgodMintAddress": "C3vEmtELPc5MbBnnNheNRjvLj8E59isbQcPXy3wpp2zu",
+    "solgodMintName": "SOLGods 5165",
+    "solgodMintURI": "https://arweave.net/KMG926LMLRMDHnQb9KwQ6cwRtv0p5uBvJk6TABuLf8Q",
+    "ee": {
+      "etherealOrEntropyMintName": "Ethereals 10",
+      "etherealOrEntropyMintAddress": "A46uWoDWbc4QjBAgNWwt5XRAiT7sNnoaetMQYw37sA1X"
+    },
+    "numberOfCollection": 318,
+    "totalCollectionSize": 666
+  },
+  {
+    "taskUUID": "d5f12829-f11e-4821-9f7c-49a2bdb1ee90",
+    "solgodHolder": "5J6W3zHJs4DRfEDjC8M2s1VsUkmjgB63DRbp1EbKt4ia",
+    "solgodMintAddress": "2V45nJh77XB5zSSc3dWVkdxzfD3ChrbXnKa9PyU4pduw",
+    "solgodMintName": "SOLGods 2667",
+    "solgodMintURI": "https://arweave.net/QK7kPRq8jNWcPw8evNoPnsFBsXS7TukTXCC_I2yFxKQ",
+    "ee": {
+      "etherealOrEntropyMintName": "Ethereals 210",
+      "etherealOrEntropyMintAddress": "3suVkybZWpvTgHVGgMGT8RQosHu6BjRHwJcwGd3NpCew"
+    },
+    "numberOfCollection": 319,
+    "totalCollectionSize": 666
+  },
+  {
+    "taskUUID": "754431d2-35e3-4180-adf3-c4dda9e2ad6f",
+    "solgodHolder": "5J6W3zHJs4DRfEDjC8M2s1VsUkmjgB63DRbp1EbKt4ia",
+    "solgodMintAddress": "2V45nJh77XB5zSSc3dWVkdxzfD3ChrbXnKa9PyU4pduw",
+    "solgodMintName": "SOLGods 2667",
+    "solgodMintURI": "https://arweave.net/QK7kPRq8jNWcPw8evNoPnsFBsXS7TukTXCC_I2yFxKQ",
+    "ee": {
+      "etherealOrEntropyMintName": "Ethereals 10",
+      "etherealOrEntropyMintAddress": "A46uWoDWbc4QjBAgNWwt5XRAiT7sNnoaetMQYw37sA1X"
+    },
+    "numberOfCollection": 320,
+    "totalCollectionSize": 666
+  },
+  {
+    "taskUUID": "2aa0470c-1860-4de3-8886-b16f1d8d4450",
+    "solgodHolder": "5J6W3zHJs4DRfEDjC8M2s1VsUkmjgB63DRbp1EbKt4ia",
+    "solgodMintAddress": "5Y21YbAFZLPZWNkoH1gJKvpLTC8d2d9F7FVSduECxGyj",
+    "solgodMintName": "SOLGods 5997",
+    "solgodMintURI": "https://arweave.net/YzFI_QnSKklxoNzlsqvEpMESvxZOSCCfM5tDtu_l2Qc",
+    "ee": {
+      "etherealOrEntropyMintName": "Ethereals 210",
+      "etherealOrEntropyMintAddress": "3suVkybZWpvTgHVGgMGT8RQosHu6BjRHwJcwGd3NpCew"
+    },
+    "numberOfCollection": 321,
+    "totalCollectionSize": 666
+  },
+  {
+    "taskUUID": "37e65c85-9ea9-4e19-a3c0-c9cf9d511572",
+    "solgodHolder": "5J6W3zHJs4DRfEDjC8M2s1VsUkmjgB63DRbp1EbKt4ia",
+    "solgodMintAddress": "5Y21YbAFZLPZWNkoH1gJKvpLTC8d2d9F7FVSduECxGyj",
+    "solgodMintName": "SOLGods 5997",
+    "solgodMintURI": "https://arweave.net/YzFI_QnSKklxoNzlsqvEpMESvxZOSCCfM5tDtu_l2Qc",
+    "ee": {
+      "etherealOrEntropyMintName": "Ethereals 10",
+      "etherealOrEntropyMintAddress": "A46uWoDWbc4QjBAgNWwt5XRAiT7sNnoaetMQYw37sA1X"
+    },
+    "numberOfCollection": 322,
+    "totalCollectionSize": 666
+  },
+  {
+    "taskUUID": "0d7a06df-0d5e-4733-a786-ecc59dba7b78",
+    "solgodHolder": "5J6W3zHJs4DRfEDjC8M2s1VsUkmjgB63DRbp1EbKt4ia",
+    "solgodMintAddress": "5Spca1v9R5uQyzNEC6dd3S3Z1E2EFftf84rerp4bqbAC",
+    "solgodMintName": "SOLGods 4158",
+    "solgodMintURI": "https://arweave.net/QtUInV7Zmg_gkNA3WfGwjMiw6Jv2aoTcY8ppDz1_lK0",
+    "ee": {
+      "etherealOrEntropyMintName": "Ethereals 210",
+      "etherealOrEntropyMintAddress": "3suVkybZWpvTgHVGgMGT8RQosHu6BjRHwJcwGd3NpCew"
+    },
+    "numberOfCollection": 323,
+    "totalCollectionSize": 666
+  },
+  {
+    "taskUUID": "255d21ec-a9c7-40fd-9535-35e8069ecce8",
+    "solgodHolder": "5J6W3zHJs4DRfEDjC8M2s1VsUkmjgB63DRbp1EbKt4ia",
+    "solgodMintAddress": "5Spca1v9R5uQyzNEC6dd3S3Z1E2EFftf84rerp4bqbAC",
+    "solgodMintName": "SOLGods 4158",
+    "solgodMintURI": "https://arweave.net/QtUInV7Zmg_gkNA3WfGwjMiw6Jv2aoTcY8ppDz1_lK0",
+    "ee": {
+      "etherealOrEntropyMintName": "Ethereals 10",
+      "etherealOrEntropyMintAddress": "A46uWoDWbc4QjBAgNWwt5XRAiT7sNnoaetMQYw37sA1X"
+    },
+    "numberOfCollection": 324,
+    "totalCollectionSize": 666
+  }
 ];
